@@ -1,7 +1,27 @@
-.hero {
-    background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/47703/empire-gradient.jpg") center center no-repeat;
+.gradient {
+    background: -webkit-linear-gradient(-60deg, #096784 30%, #d83452 80%);
+    position: relative;
+    opacity: 1;
+}
+
+.gradient-2 {
+    background: url("img/empire-strikes-back-min.jpg") center center no-repeat;
     background-size: cover;
+    display: block;
+
+    opacity: .3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.hero {
+    background: none;
     margin-bottom: -3.5em;
+    z-index: 5;
 }
 
 .hero h1 {
@@ -10,6 +30,7 @@
 
 .hero-body {
     text-align: center;
+    z-index: 2;
 }
 
 .hero-body .search {
@@ -26,6 +47,11 @@
 .textarea:active,
 .textarea:focus {
     border-color: #096784;
+}
+
+.content-wrap {
+    z-index: 10000;
+    position: relative;
 }
 
 .table {
