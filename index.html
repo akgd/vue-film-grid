@@ -1,85 +1,77 @@
 <!doctype html>
 <html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="manifest" href="site.webmanifest">
-        <link rel="apple-touch-icon" href="icon.png">
-        <!-- Place favicon.ico in the root directory -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="apple-touch-icon" href="icon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/bulma.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/bulma.css">
-        <link rel="stylesheet" href="css/main.css">
-    </head>
-    <body>
-        <!--[if lte IE 9]>
+<body>
+    <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
-
-        <!-- App -->
-<!-- component template -->
-<script type="text/x-template" id="grid-template">
- <table class="table">
-  <thead>
-   <tr class="is-primary">
-    <th v-for="(key, index) in columns" @click="sortBy(key)" :class="{ active: sortKey == key }">
-     <span>{{labels[index]}}</span>
-     <span class="arrow" :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
+    <!-- App -->
+    <!-- component template -->
+    <script type="text/x-template" id="grid-template">
+        <table class="table">
+            <thead>
+                <tr class="is-primary">
+                    <th v-for="(key, index) in columns" @click="sortBy(key)" :class="{ active: sortKey == key }">
+                        <span>{{labels[index]}}</span>
+                        <span class="arrow" :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
           </span>
-    </th>
-   </tr>
-  </thead>
-  <tbody>
-   <tr v-for="entry in filteredData">
-    <td v-for="key in columns">
-     {{ formatValue(entry[key], key) }}
-    </td>
-   </tr>
-  </tbody>
- </table>
-</script>
-
-<div id="app">
- <section class="hero is-large is-bold">
-  <div class="hero-body">
-
-   <h1 class="title">
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="entry in filteredData">
+                    <td v-for="key in columns">
+                        {{ formatValue(entry[key], key) }}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </script>
+    <div id="app">
+        <section class="hero is-large is-bold">
+            <div class="hero-body">
+                <h1 class="title">
         Top 200 grossing films
       </h1>
-
-   <div class="search">
-    <div id="search">
-     <input class="input" name="query" v-model="searchQuery" placeholder="Search films">
-
-    </div>
-
-         </div>
- </section>
-
- <div class="columns">
-  <div class="column is-offset-one">
-   <app-grid :data="gridData" :columns="gridColumns" :labels="gridLabels" :filter-key="searchQuery">
-   </app-grid>
-  </div>
- </div>
- </div>
-
-
- <footer class="footer">
-  <div class="container">
-   <div class="content has-text-centered">
-    <p>
-     Data from <a href="http://www.boxofficemojo.com/alltime/adjusted.htm">Box Office Mojo</a> (taken July 2017).
-    </p>
-   </div>
-  </div>
- </footer>
+                <div class="search">
+                    <div id="search">
+                        <input class="input" name="query" v-model="searchQuery" placeholder="Search films">
+                    </div>
+                </div>
+        </section>
+        <div class="columns">
+            <div class="column is-offset-one">
+                <app-grid :data="gridData" :columns="gridColumns" :labels="gridLabels" :filter-key="searchQuery">
+                </app-grid>
+            </div>
+        </div>
+        </div>
+        <footer class="footer">
+            <div class="container">
+                <div class="content has-text-centered">
+                    <p>
+                        Data from <a href="http://www.boxofficemojo.com/alltime/adjusted.htm">Box Office Mojo</a> (taken July 2017).
+                    </p>
+                </div>
+            </div>
+        </footer>
         <!-- End app -->
         <script src="js/vue.min.js"></script>
         <script src="js/main.js"></script>
-    </body>
+</body>
+
 </html>
