@@ -1,0 +1,1402 @@
+[
+ {
+   "film": "Beauty and the Beast (2017)",
+   "studio": "Disney",
+   "grossUnadjusted": 504014165,
+   "grossAdjusted": 504014165,
+   "year": 2017
+ },
+ {
+   "film": "Guardians of the Galaxy Vol. 2",
+   "studio": "Disney",
+   "grossUnadjusted": 386895502,
+   "grossAdjusted": 386895502,
+   "year": 2017
+ },
+ {
+   "film": "Wonder Woman",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 384403279,
+   "grossAdjusted": 384403279,
+   "year": 2017
+ },
+ {
+   "film": "Rogue One: A Star Wars Story",
+   "studio": "Disney",
+   "grossUnadjusted": 532177324,
+   "grossAdjusted": 537334700,
+   "year": 2016
+ },
+ {
+   "film": "Finding Dory",
+   "studio": "Disney",
+   "grossUnadjusted": 486295561,
+   "grossAdjusted": 499245400,
+   "year": 2016
+ },
+ {
+   "film": "Captain America: Civil War",
+   "studio": "Disney",
+   "grossUnadjusted": 408084349,
+   "grossAdjusted": 415654000,
+   "year": 2016
+ },
+ {
+   "film": "The Secret Life of Pets",
+   "studio": "Universal",
+   "grossUnadjusted": 368384330,
+   "grossAdjusted": 384704200,
+   "year": 2016
+ },
+ {
+   "film": "Deadpool",
+   "studio": "Fox",
+   "grossUnadjusted": 363070709,
+   "grossAdjusted": 375984600,
+   "year": 2016
+ },
+ {
+   "film": "The Jungle Book (2016)",
+   "studio": "Disney",
+   "grossUnadjusted": 364001123,
+   "grossAdjusted": 370808400,
+   "year": 2016
+ },
+ {
+   "film": "Zootopia",
+   "studio": "Disney",
+   "grossUnadjusted": 341268248,
+   "grossAdjusted": 352098200,
+   "year": 2016
+ },
+ {
+   "film": "Batman v Superman: Dawn of Justice",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 330360194,
+   "grossAdjusted": 340137000,
+   "year": 2016
+ },
+ {
+   "film": "Suicide Squad",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 325100054,
+   "grossAdjusted": 339411900,
+   "year": 2016
+ },
+ {
+   "film": "Star Wars: The Force Awakens",
+   "studio": "Disney",
+   "grossUnadjusted": 936662225,
+   "grossAdjusted": 961143200,
+   "year": 2015
+ },
+ {
+   "film": "Jurassic World",
+   "studio": "Universal",
+   "grossUnadjusted": 652270625,
+   "grossAdjusted": 702747400,
+   "year": 2015
+ },
+ {
+   "film": "Avengers: Age of Ultron",
+   "studio": "Disney",
+   "grossUnadjusted": 459005868,
+   "grossAdjusted": 475854300,
+   "year": 2015
+ },
+ {
+   "film": "Inside Out",
+   "studio": "Disney",
+   "grossUnadjusted": 356461711,
+   "grossAdjusted": 383928800,
+   "year": 2015
+ },
+ {
+   "film": "Furious 7",
+   "studio": "Universal",
+   "grossUnadjusted": 353007020,
+   "grossAdjusted": 364701500,
+   "year": 2015
+ },
+ {
+   "film": "Minions",
+   "studio": "Universal",
+   "grossUnadjusted": 336045770,
+   "grossAdjusted": 361949600,
+   "year": 2015
+ },
+ {
+   "film": "American Sniper",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 350126372,
+   "grossAdjusted": 382981200,
+   "year": 2014
+ },
+ {
+   "film": "Guardians of the Galaxy",
+   "studio": "Disney",
+   "grossUnadjusted": 333176600,
+   "grossAdjusted": 366068600,
+   "year": 2014
+ },
+ {
+   "film": "The Hunger Games: Mockingjay - Part 1",
+   "studio": "Lionsgate",
+   "grossUnadjusted": 337135885,
+   "grossAdjusted": 362062100,
+   "year": 2014
+ },
+ {
+   "film": "The Hunger Games: Catching Fire",
+   "studio": "Lionsgate",
+   "grossUnadjusted": 424668047,
+   "grossAdjusted": 454409200,
+   "year": 2013
+ },
+ {
+   "film": "Frozen",
+   "studio": "Disney",
+   "grossUnadjusted": 400738009,
+   "grossAdjusted": 435974700,
+   "year": 2013
+ },
+ {
+   "film": "Iron Man 3",
+   "studio": "Disney",
+   "grossUnadjusted": 409013994,
+   "grossAdjusted": 433906300,
+   "year": 2013
+ },
+ {
+   "film": "Despicable Me 2",
+   "studio": "Universal",
+   "grossUnadjusted": 368061265,
+   "grossAdjusted": 416888500,
+   "year": 2013
+ },
+ {
+   "film": "Marvel's The Avengers",
+   "studio": "Disney",
+   "grossUnadjusted": 623357910,
+   "grossAdjusted": 683474000,
+   "year": 2012
+ },
+ {
+   "film": "The Dark Knight Rises",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 448139099,
+   "grossAdjusted": 511902300,
+   "year": 2012
+ },
+ {
+   "film": "The Hunger Games",
+   "studio": "Lionsgate",
+   "grossUnadjusted": 408010692,
+   "grossAdjusted": 452174400,
+   "year": 2012
+ },
+ {
+   "film": "Harry Potter and the Deathly Hallows Part 2",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 381011219,
+   "grossAdjusted": 426630300,
+   "year": 2011
+ },
+ {
+   "film": "Transformers: Dark of the Moon",
+   "studio": "Paramount, Dreamwords",
+   "grossUnadjusted": 352390543,
+   "grossAdjusted": 393479300,
+   "year": 2011
+ },
+ {
+   "film": "Toy Story 3",
+   "studio": "Disney",
+   "grossUnadjusted": 415004880,
+   "grossAdjusted": 464074600,
+   "year": 2010
+ },
+ {
+   "film": "Alice in Wonderland (2010)",
+   "studio": "Disney",
+   "grossUnadjusted": 334191110,
+   "grossAdjusted": 373705500,
+   "year": 2010
+ },
+ {
+   "film": "Iron Man 2",
+   "studio": "Paramount",
+   "grossUnadjusted": 312433331,
+   "grossAdjusted": 349375100,
+   "year": 2010
+ },
+ {
+   "film": "Avatar",
+   "studio": "Fox",
+   "grossUnadjusted": 760507625,
+   "grossAdjusted": 864599300,
+   "year": 2009
+ },
+ {
+   "film": "Transformers: Revenge of the Fallen",
+   "studio": "Paramount, Dreamwords",
+   "grossUnadjusted": 402111870,
+   "grossAdjusted": 479179200,
+   "year": 2009
+ },
+ {
+   "film": "Harry Potter and the Half-Blood Prince",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 301959197,
+   "grossAdjusted": 359788300,
+   "year": 2009
+ },
+ {
+   "film": "Up",
+   "studio": "Disney",
+   "grossUnadjusted": 293004164,
+   "grossAdjusted": 349143900,
+   "year": 2009
+ },
+ {
+   "film": "The Twilight Saga: New Moon",
+   "studio": "Sum.",
+   "grossUnadjusted": 296623634,
+   "grossAdjusted": 345910600,
+   "year": 2009
+ },
+ {
+   "film": "The Dark Knight",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 534858444,
+   "grossAdjusted": 661980500,
+   "year": 2008
+ },
+ {
+   "film": "Iron Man",
+   "studio": "Paramount",
+   "grossUnadjusted": 318412101,
+   "grossAdjusted": 394234700,
+   "year": 2008
+ },
+ {
+   "film": "Indiana Jones and the Kingdom of the Crystal Skull",
+   "studio": "Paramount",
+   "grossUnadjusted": 317101119,
+   "grossAdjusted": 392622400,
+   "year": 2008
+ },
+ {
+   "film": "Spider-Man 3",
+   "studio": "Sony",
+   "grossUnadjusted": 336530303,
+   "grossAdjusted": 434848000,
+   "year": 2007
+ },
+ {
+   "film": "Shrek the Third",
+   "studio": "Paramount, Dreamwords",
+   "grossUnadjusted": 322719944,
+   "grossAdjusted": 417002900,
+   "year": 2007
+ },
+ {
+   "film": "Transformers",
+   "studio": "Paramount, Dreamwords",
+   "grossUnadjusted": 319246193,
+   "grossAdjusted": 412514300,
+   "year": 2007
+ },
+ {
+   "film": "Pirates of the Caribbean: At World's End",
+   "studio": "Disney",
+   "grossUnadjusted": 309420425,
+   "grossAdjusted": 399818000,
+   "year": 2007
+ },
+ {
+   "film": "Harry Potter and the Order of the Phoenix",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 292004738,
+   "grossAdjusted": 377314200,
+   "year": 2007
+ },
+ {
+   "film": "Pirates of the Caribbean: Dead Man's Chest",
+   "studio": "Disney",
+   "grossUnadjusted": 423315812,
+   "grossAdjusted": 574546200,
+   "year": 2006
+ },
+ {
+   "film": "Star Wars: Episode III - Revenge of the Sith",
+   "studio": "Fox",
+   "grossUnadjusted": 380270577,
+   "grossAdjusted": 527395500,
+   "year": 2005
+ },
+ {
+   "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+   "studio": "Disney",
+   "grossUnadjusted": 291710957,
+   "grossAdjusted": 401616500,
+   "year": 2005
+ },
+ {
+   "film": "Harry Potter and the Goblet of Fire",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 290013036,
+   "grossAdjusted": 401608200,
+   "year": 2005
+ },
+ {
+   "film": "Shrek 2",
+   "studio": "DreamWorks",
+   "grossUnadjusted": 441226247,
+   "grossAdjusted": 631642700,
+   "year": 2004
+ },
+ {
+   "film": "Spider-Man 2",
+   "studio": "Sony",
+   "grossUnadjusted": 373585825,
+   "grossAdjusted": 534811300,
+   "year": 2004
+ },
+ {
+   "film": "The Passion of the Christ",
+   "studio": "Newmarket Films",
+   "grossUnadjusted": 370782930,
+   "grossAdjusted": 530776000,
+   "year": 2004
+ },
+ {
+   "film": "Meet the Fockers",
+   "studio": "Universal",
+   "grossUnadjusted": 279261160,
+   "grossAdjusted": 392698200,
+   "year": 2004
+ },
+ {
+   "film": "The Incredibles",
+   "studio": "Disney",
+   "grossUnadjusted": 261441092,
+   "grossAdjusted": 373646300,
+   "year": 2004
+ },
+ {
+   "film": "Harry Potter and the Prisoner of Azkaban",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 249541069,
+   "grossAdjusted": 357233500,
+   "year": 2004
+ },
+ {
+   "film": "The Lord of the Rings: The Return of the King",
+   "studio": "New Line Cinema",
+   "grossUnadjusted": 377845905,
+   "grossAdjusted": 547976900,
+   "year": 2003
+ },
+ {
+   "film": "Finding Nemo",
+   "studio": "Disney",
+   "grossUnadjusted": 380843261,
+   "grossAdjusted": 547504100,
+   "year": 2003
+ },
+ {
+   "film": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "studio": "Disney",
+   "grossUnadjusted": 305413918,
+   "grossAdjusted": 450268700,
+   "year": 2003
+ },
+ {
+   "film": "The Matrix Reloaded",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 281576461,
+   "grossAdjusted": 415126800,
+   "year": 2003
+ },
+ {
+   "film": "Bruce Almighty",
+   "studio": "Universal",
+   "grossUnadjusted": 242829261,
+   "grossAdjusted": 358002000,
+   "year": 2003
+ },
+ {
+   "film": "Spider-Man",
+   "studio": "Sony",
+   "grossUnadjusted": 403706375,
+   "grossAdjusted": 617719400,
+   "year": 2002
+ },
+ {
+   "film": "The Lord of the Rings: The Two Towers",
+   "studio": "New Line Cinema",
+   "grossUnadjusted": 342551365,
+   "grossAdjusted": 513177800,
+   "year": 2002
+ },
+ {
+   "film": "Star Wars: Episode II - Attack of the Clones",
+   "studio": "Fox",
+   "grossUnadjusted": 310676740,
+   "grossAdjusted": 475334700,
+   "year": 2002
+ },
+ {
+   "film": "Harry Potter and the Chamber of Secrets",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 261988482,
+   "grossAdjusted": 399302200,
+   "year": 2002
+ },
+ {
+   "film": "My Big Fat Greek Wedding",
+   "studio": "IFC",
+   "grossUnadjusted": 241438208,
+   "grossAdjusted": 368219200,
+   "year": 2002
+ },
+ {
+   "film": "Signs",
+   "studio": "Disney",
+   "grossUnadjusted": 227966634,
+   "grossAdjusted": 348787100,
+   "year": 2002
+ },
+ {
+   "film": "Harry Potter and the Sorcerer's Stone",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 317575550,
+   "grossAdjusted": 497066400,
+   "year": 2001
+ },
+ {
+   "film": "The Lord of the Rings: The Fellowship of the Ring",
+   "studio": "New Line Cinema",
+   "grossUnadjusted": 315544750,
+   "grossAdjusted": 487165600,
+   "year": 2001
+ },
+ {
+   "film": "Monsters, Inc.",
+   "studio": "Disney",
+   "grossUnadjusted": 289916256,
+   "grossAdjusted": 438749200,
+   "year": 2001
+ },
+ {
+   "film": "Shrek",
+   "studio": "DreamWorks",
+   "grossUnadjusted": 267665011,
+   "grossAdjusted": 420413700,
+   "year": 2001
+ },
+ {
+   "film": "Rush Hour 2",
+   "studio": "New Line Cinema",
+   "grossUnadjusted": 226164286,
+   "grossAdjusted": 355229800,
+   "year": 2001
+ },
+ {
+   "film": "How the Grinch Stole Christmas",
+   "studio": "Universal",
+   "grossUnadjusted": 260044825,
+   "grossAdjusted": 427669700,
+   "year": 2000
+ },
+ {
+   "film": "Cast Away",
+   "studio": "Fox",
+   "grossUnadjusted": 233632142,
+   "grossAdjusted": 372439400,
+   "year": 2000
+ },
+ {
+   "film": "Mission: Impossible II",
+   "studio": "Paramount",
+   "grossUnadjusted": 215409889,
+   "grossAdjusted": 355286400,
+   "year": 2000
+ },
+ {
+   "film": "Star Wars: Episode I - The Phantom Menace",
+   "studio": "Fox",
+   "grossUnadjusted": 474544677,
+   "grossAdjusted": 802874300,
+   "year": 1999
+ },
+ {
+   "film": "The Sixth Sense",
+   "studio": "Disney",
+   "grossUnadjusted": 293506292,
+   "grossAdjusted": 511878400,
+   "year": 1999
+ },
+ {
+   "film": "Toy Story 2",
+   "studio": "Disney",
+   "grossUnadjusted": 245852179,
+   "grossAdjusted": 425266700,
+   "year": 1999
+ },
+ {
+   "film": "Austin Powers: The Spy Who Shagged Me",
+   "studio": "New Line Cinema",
+   "grossUnadjusted": 206040086,
+   "grossAdjusted": 360570200,
+   "year": 1999
+ },
+ {
+   "film": "Saving Private Ryan",
+   "studio": "DreamWorks",
+   "grossUnadjusted": 216540909,
+   "grossAdjusted": 406691500,
+   "year": 1998
+ },
+ {
+   "film": "Armageddon",
+   "studio": "Disney",
+   "grossUnadjusted": 201578182,
+   "grossAdjusted": 382096000,
+   "year": 1998
+ },
+ {
+   "film": "Titanic",
+   "studio": "Paramount",
+   "grossUnadjusted": 658672302,
+   "grossAdjusted": 1204368000,
+   "year": 1997
+ },
+ {
+   "film": "Men in Black",
+   "studio": "Sony",
+   "grossUnadjusted": 250690539,
+   "grossAdjusted": 485542200,
+   "year": 1997
+ },
+ {
+   "film": "The Lost World: Jurassic Park",
+   "studio": "Universal",
+   "grossUnadjusted": 229086679,
+   "grossAdjusted": 443699500,
+   "year": 1997
+ },
+ {
+   "film": "Liar Liar",
+   "studio": "Universal",
+   "grossUnadjusted": 181410615,
+   "grossAdjusted": 351359500,
+   "year": 1997
+ },
+ {
+   "film": "Independence Day",
+   "studio": "Fox",
+   "grossUnadjusted": 306169268,
+   "grossAdjusted": 615800300,
+   "year": 1996
+ },
+ {
+   "film": "Twister",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 241721524,
+   "grossAdjusted": 486177500,
+   "year": 1996
+ },
+ {
+   "film": "Mission: Impossible",
+   "studio": "Paramount",
+   "grossUnadjusted": 180981856,
+   "grossAdjusted": 364011000,
+   "year": 1996
+ },
+ {
+   "film": "Toy Story",
+   "studio": "Disney",
+   "grossUnadjusted": 191796233,
+   "grossAdjusted": 389989400,
+   "year": 1995
+ },
+ {
+   "film": "Batman Forever",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 184031112,
+   "grossAdjusted": 376100400,
+   "year": 1995
+ },
+ {
+   "film": "Apollo 13",
+   "studio": "Universal",
+   "grossUnadjusted": 173837933,
+   "grossAdjusted": 354335300,
+   "year": 1995
+ },
+ {
+   "film": "The Lion King",
+   "studio": "Disney",
+   "grossUnadjusted": 422783777,
+   "grossAdjusted": 792511700,
+   "year": 1994
+ },
+ {
+   "film": "Forrest Gump",
+   "studio": "Paramount",
+   "grossUnadjusted": 330252182,
+   "grossAdjusted": 698884100,
+   "year": 1994
+ },
+ {
+   "film": "Jurassic Park",
+   "studio": "Universal",
+   "grossUnadjusted": 402453882,
+   "grossAdjusted": 817186200,
+   "year": 1993
+ },
+ {
+   "film": "Mrs. Doubtfire",
+   "studio": "Fox",
+   "grossUnadjusted": 219195243,
+   "grossAdjusted": 468364200,
+   "year": 1993
+ },
+ {
+   "film": "The Fugitive",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 183875760,
+   "grossAdjusted": 394692100,
+   "year": 1993
+ },
+ {
+   "film": "The Firm",
+   "studio": "Paramount",
+   "grossUnadjusted": 158348367,
+   "grossAdjusted": 340028200,
+   "year": 1993
+ },
+ {
+   "film": "Aladdin",
+   "studio": "Disney",
+   "grossUnadjusted": 217350219,
+   "grossAdjusted": 466212500,
+   "year": 1992
+ },
+ {
+   "film": "Home Alone 2: Lost in New York",
+   "studio": "Fox",
+   "grossUnadjusted": 173585516,
+   "grossAdjusted": 372042900,
+   "year": 1992
+ },
+ {
+   "film": "Batman Returns",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 162831698,
+   "grossAdjusted": 348813000,
+   "year": 1992
+ },
+ {
+   "film": "Terminator 2: Judgment Day",
+   "studio": "TriS",
+   "grossUnadjusted": 204843345,
+   "grossAdjusted": 432555200,
+   "year": 1991
+ },
+ {
+   "film": "Beauty and the Beast",
+   "studio": "Disney",
+   "grossUnadjusted": 218967620,
+   "grossAdjusted": 403283400,
+   "year": 1991
+ },
+ {
+   "film": "Robin Hood: Prince of Thieves",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 165493908,
+   "grossAdjusted": 349463400,
+   "year": 1991
+ },
+ {
+   "film": "Home Alone",
+   "studio": "Fox",
+   "grossUnadjusted": 285761243,
+   "grossAdjusted": 602157000,
+   "year": 1990
+ },
+ {
+   "film": "Ghost",
+   "studio": "Paramount",
+   "grossUnadjusted": 217631306,
+   "grossAdjusted": 457525800,
+   "year": 1990
+ },
+ {
+   "film": "Dances with Wolves",
+   "studio": "Orion",
+   "grossUnadjusted": 184208848,
+   "grossAdjusted": 388486700,
+   "year": 1990
+ },
+ {
+   "film": "Pretty Woman",
+   "studio": "Disney",
+   "grossUnadjusted": 178406268,
+   "grossAdjusted": 374948400,
+   "year": 1990
+ },
+ {
+   "film": "Batman",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 251188924,
+   "grossAdjusted": 559666600,
+   "year": 1989
+ },
+ {
+   "film": "Indiana Jones and the Last Crusade",
+   "studio": "Paramount",
+   "grossUnadjusted": 197171806,
+   "grossAdjusted": 439312600,
+   "year": 1989
+ },
+ {
+   "film": "Rain Man",
+   "studio": "MGM",
+   "grossUnadjusted": 172825435,
+   "grossAdjusted": 384863200,
+   "year": 1988
+ },
+ {
+   "film": "Who Framed Roger Rabbit",
+   "studio": "Disney",
+   "grossUnadjusted": 156452370,
+   "grossAdjusted": 338409100,
+   "year": 1988
+ },
+ {
+   "film": "Three Men and a Baby",
+   "studio": "Disney",
+   "grossUnadjusted": 167780960,
+   "grossAdjusted": 370746600,
+   "year": 1987
+ },
+ {
+   "film": "Fatal Attraction",
+   "studio": "Paramount",
+   "grossUnadjusted": 156645693,
+   "grossAdjusted": 352761800,
+   "year": 1987
+ },
+ {
+   "film": "Beverly Hills Cop II",
+   "studio": "Paramount",
+   "grossUnadjusted": 153665036,
+   "grossAdjusted": 349381600,
+   "year": 1987
+ },
+ {
+   "film": "Top Gun",
+   "studio": "Paramount",
+   "grossUnadjusted": 179800601,
+   "grossAdjusted": 426942900,
+   "year": 1986
+ },
+ {
+   "film": "Crocodile Dundee",
+   "studio": "Paramount",
+   "grossUnadjusted": 174803506,
+   "grossAdjusted": 410739900,
+   "year": 1986
+ },
+ {
+   "film": "Back to the Future",
+   "studio": "Universal",
+   "grossUnadjusted": 210609762,
+   "grossAdjusted": 524960300,
+   "year": 1985
+ },
+ {
+   "film": "Rambo: First Blood Part II",
+   "studio": "TriS",
+   "grossUnadjusted": 150415432,
+   "grossAdjusted": 376674100,
+   "year": 1985
+ },
+ {
+   "film": "Ghostbusters",
+   "studio": "Columbia",
+   "grossUnadjusted": 242212467,
+   "grossAdjusted": 632734400,
+   "year": 1984
+ },
+ {
+   "film": "Beverly Hills Cop",
+   "studio": "Paramount",
+   "grossUnadjusted": 234760478,
+   "grossAdjusted": 596963700,
+   "year": 1984
+ },
+ {
+   "film": "Indiana Jones and the Temple of Doom",
+   "studio": "Paramount",
+   "grossUnadjusted": 179870271,
+   "grossAdjusted": 475906700,
+   "year": 1984
+ },
+ {
+   "film": "Gremlins",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 153083102,
+   "grossAdjusted": 404336400,
+   "year": 1984
+ },
+ {
+   "film": "Return of the Jedi",
+   "studio": "Fox",
+   "grossUnadjusted": 309306177,
+   "grossAdjusted": 836188200,
+   "year": 1983
+ },
+ {
+   "film": "E.T.: The Extra-Terrestrial",
+   "studio": "Universal",
+   "grossUnadjusted": 435110554,
+   "grossAdjusted": 1261085000,
+   "year": 1982
+ },
+ {
+   "film": "Tootsie",
+   "studio": "Columbia",
+   "grossUnadjusted": 177200000,
+   "grossAdjusted": 505876000,
+   "year": 1982
+ },
+ {
+   "film": "An Officer and a Gentleman",
+   "studio": "Paramount",
+   "grossUnadjusted": 129795554,
+   "grossAdjusted": 388109400,
+   "year": 1982
+ },
+ {
+   "film": "Rocky III",
+   "studio": "United Artists",
+   "grossUnadjusted": 125049125,
+   "grossAdjusted": 377942800,
+   "year": 1982
+ },
+ {
+   "film": "Raiders of the Lost Ark",
+   "studio": "Paramount",
+   "grossUnadjusted": 248159971,
+   "grossAdjusted": 787003100,
+   "year": 1981
+ },
+ {
+   "film": "On Golden Pond",
+   "studio": "Universal",
+   "grossUnadjusted": 119285432,
+   "grossAdjusted": 360794700,
+   "year": 1981
+ },
+ {
+   "film": "Superman II",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 108185706,
+   "grossAdjusted": 345960800,
+   "year": 1981
+ },
+ {
+   "film": "The Empire Strikes Back",
+   "studio": "Fox",
+   "grossUnadjusted": 290475067,
+   "grossAdjusted": 872825900,
+   "year": 1980
+ },
+ {
+   "film": "9 to 5",
+   "studio": "Fox",
+   "grossUnadjusted": 103290500,
+   "grossAdjusted": 341357800,
+   "year": 1980
+ },
+ {
+   "film": "Kramer Vs. Kramer",
+   "studio": "Columbia",
+   "grossUnadjusted": 106260000,
+   "grossAdjusted": 382450000,
+   "year": 1979
+ },
+ {
+   "film": "Grease",
+   "studio": "Paramount",
+   "grossUnadjusted": 188755690,
+   "grossAdjusted": 684256200,
+   "year": 1978
+ },
+ {
+   "film": "National Lampoon's Animal House",
+   "studio": "Universal",
+   "grossUnadjusted": 141600000,
+   "grossAdjusted": 532424500,
+   "year": 1978
+ },
+ {
+   "film": "Superman",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 134218018,
+   "grossAdjusted": 509913700,
+   "year": 1978
+ },
+ {
+   "film": "Star Wars",
+   "studio": "Fox",
+   "grossUnadjusted": 460998007,
+   "grossAdjusted": 1583483200,
+   "year": 1977
+ },
+ {
+   "film": "Smokey and the Bandit",
+   "studio": "Universal",
+   "grossUnadjusted": 126737428,
+   "grossAdjusted": 505244700,
+   "year": 1977
+ },
+ {
+   "film": "Close Encounters of the Third Kind",
+   "studio": "Columbia",
+   "grossUnadjusted": 132088635,
+   "grossAdjusted": 494066600,
+   "year": 1977
+ },
+ {
+   "film": "Saturday Night Fever",
+   "studio": "Paramount",
+   "grossUnadjusted": 94213184,
+   "grossAdjusted": 360976100,
+   "year": 1977
+ },
+ {
+   "film": "Rocky",
+   "studio": "United Artists",
+   "grossUnadjusted": 117235147,
+   "grossAdjusted": 489305400,
+   "year": 1976
+ },
+ {
+   "film": "Jaws",
+   "studio": "Universal",
+   "grossUnadjusted": 260000000,
+   "grossAdjusted": 1138620700,
+   "year": 1975
+ },
+ {
+   "film": "The Rocky Horror Picture Show",
+   "studio": "Fox",
+   "grossUnadjusted": 112892319,
+   "grossAdjusted": 489567200,
+   "year": 1975
+ },
+ {
+   "film": "One Flew Over the Cuckoo's Nest",
+   "studio": "United Artists",
+   "grossUnadjusted": 108981275,
+   "grossAdjusted": 477262800,
+   "year": 1975
+ },
+ {
+   "film": "Blazing Saddles",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 119601481,
+   "grossAdjusted": 562200300,
+   "year": 1974
+ },
+ {
+   "film": "The Towering Inferno",
+   "studio": "Fox",
+   "grossUnadjusted": 116000000,
+   "grossAdjusted": 545629600,
+   "year": 1974
+ },
+ {
+   "film": "Young Frankenstein",
+   "studio": "Fox",
+   "grossUnadjusted": 86273333,
+   "grossAdjusted": 405804200,
+   "year": 1974
+ },
+ {
+   "film": "Earthquake",
+   "studio": "Universal",
+   "grossUnadjusted": 79666653,
+   "grossAdjusted": 374728300,
+   "year": 1974
+ },
+ {
+   "film": "The Exorcist",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 232906145,
+   "grossAdjusted": 983226600,
+   "year": 1973
+ },
+ {
+   "film": "The Sting",
+   "studio": "Universal",
+   "grossUnadjusted": 156000000,
+   "grossAdjusted": 792480000,
+   "year": 1973
+ },
+ {
+   "film": "American Graffiti",
+   "studio": "Universal",
+   "grossUnadjusted": 115000000,
+   "grossAdjusted": 584200000,
+   "year": 1973
+ },
+ {
+   "film": "The Godfather",
+   "studio": "Paramount",
+   "grossUnadjusted": 134966411,
+   "grossAdjusted": 701621600,
+   "year": 1972
+ },
+ {
+   "film": "The Poseidon Adventure",
+   "studio": "Fox",
+   "grossUnadjusted": 84563118,
+   "grossAdjusted": 488078400,
+   "year": 1972
+ },
+ {
+   "film": "What's Up, Doc?",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 66000000,
+   "grossAdjusted": 345141200,
+   "year": 1972
+ },
+ {
+   "film": "Love Story",
+   "studio": "Paramount",
+   "grossUnadjusted": 106397186,
+   "grossAdjusted": 622283500,
+   "year": 1970
+ },
+ {
+   "film": "Airport",
+   "studio": "Universal",
+   "grossUnadjusted": 100489151,
+   "grossAdjusted": 587729300,
+   "year": 1970
+ },
+ {
+   "film": "M.A.S.H.",
+   "studio": "Fox",
+   "grossUnadjusted": 81600000,
+   "grossAdjusted": 477252600,
+   "year": 1970
+ },
+ {
+   "film": "Patton",
+   "studio": "Fox",
+   "grossUnadjusted": 61749765,
+   "grossAdjusted": 354164800,
+   "year": 1970
+ },
+ {
+   "film": "Butch Cassidy and the Sundance Kid",
+   "studio": "Fox",
+   "grossUnadjusted": 102308889,
+   "grossAdjusted": 627259300,
+   "year": 1969
+ },
+ {
+   "film": "2001: A Space Odyssey",
+   "studio": "MGM",
+   "grossUnadjusted": 56954992,
+   "grossAdjusted": 385261600,
+   "year": 1968
+ },
+ {
+   "film": "Funny Girl",
+   "studio": "Columbia",
+   "grossUnadjusted": 52223306,
+   "grossAdjusted": 355950700,
+   "year": 1968
+ },
+ {
+   "film": "The Graduate",
+   "studio": "AVCO",
+   "grossUnadjusted": 104945305,
+   "grossAdjusted": 760778000,
+   "year": 1967
+ },
+ {
+   "film": "The Jungle Book",
+   "studio": "Disney",
+   "grossUnadjusted": 141843612,
+   "grossAdjusted": 655014400,
+   "year": 1967
+ },
+ {
+   "film": "Guess Who's Coming to Dinner",
+   "studio": "Columbia",
+   "grossUnadjusted": 56666667,
+   "grossAdjusted": 384554700,
+   "year": 1967
+ },
+ {
+   "film": "The Sound of Music",
+   "studio": "Fox",
+   "grossUnadjusted": 158671368,
+   "grossAdjusted": 1266072700,
+   "year": 1965
+ },
+ {
+   "film": "Doctor Zhivago",
+   "studio": "MGM",
+   "grossUnadjusted": 111721910,
+   "grossAdjusted": 1103564200,
+   "year": 1965
+ },
+ {
+   "film": "Thunderball",
+   "studio": "United Artists",
+   "grossUnadjusted": 63595658,
+   "grossAdjusted": 664972000,
+   "year": 1965
+ },
+ {
+   "film": "Mary Poppins",
+   "studio": "Disney",
+   "grossUnadjusted": 102272727,
+   "grossAdjusted": 695036400,
+   "year": 1964
+ },
+ {
+   "film": "Goldfinger",
+   "studio": "United Artists",
+   "grossUnadjusted": 51081062,
+   "grossAdjusted": 589407000,
+   "year": 1964
+ },
+ {
+   "film": "My Fair Lady",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 72000000,
+   "grossAdjusted": 533400000,
+   "year": 1964
+ },
+ {
+   "film": "Cleopatra (1963)",
+   "studio": "Fox",
+   "grossUnadjusted": 57777778,
+   "grossAdjusted": 597261000,
+   "year": 1963
+ },
+ {
+   "film": "It's a Mad, Mad, Mad, Mad World",
+   "studio": "MGM",
+   "grossUnadjusted": 46332858,
+   "grossAdjusted": 478952400,
+   "year": 1963
+ },
+ {
+   "film": "Lawrence of Arabia",
+   "studio": "Columbia",
+   "grossUnadjusted": 44824144,
+   "grossAdjusted": 492359800,
+   "year": 1962
+ },
+ {
+   "film": "101 Dalmatians",
+   "studio": "Disney",
+   "grossUnadjusted": 144880014,
+   "grossAdjusted": 888264400,
+   "year": 1961
+ },
+ {
+   "film": "West Side Story",
+   "studio": "MGM",
+   "grossUnadjusted": 43656822,
+   "grossAdjusted": 497575800,
+   "year": 1961
+ },
+ {
+   "film": "Swiss Family Robinson",
+   "studio": "Disney",
+   "grossUnadjusted": 40356000,
+   "grossAdjusted": 478353100,
+   "year": 1960
+ },
+ {
+   "film": "Psycho",
+   "studio": "Universal",
+   "grossUnadjusted": 32000000,
+   "grossAdjusted": 379306800,
+   "year": 1960
+ },
+ {
+   "film": "Ben-Hur",
+   "studio": "MGM",
+   "grossUnadjusted": 74000000,
+   "grossAdjusted": 871220000,
+   "year": 1959
+ },
+ {
+   "film": "Sleeping Beauty",
+   "studio": "Disney",
+   "grossUnadjusted": 51600000,
+   "grossAdjusted": 646090100,
+   "year": 1959
+ },
+ {
+   "film": "The Bridge on the River Kwai",
+   "studio": "Columbia",
+   "grossUnadjusted": 27200000,
+   "grossAdjusted": 483616000,
+   "year": 1957
+ },
+ {
+   "film": "The Ten Commandments",
+   "studio": "Paramount",
+   "grossUnadjusted": 65500000,
+   "grossAdjusted": 1164590000,
+   "year": 1956
+ },
+ {
+   "film": "Around the World in 80 Days",
+   "studio": "United Artists",
+   "grossUnadjusted": 42000000,
+   "grossAdjusted": 574430800,
+   "year": 1956
+ },
+ {
+   "film": "Lady and the Tramp",
+   "studio": "Disney",
+   "grossUnadjusted": 93602326,
+   "grossAdjusted": 495483100,
+   "year": 1955
+ },
+ {
+   "film": "Rear Window",
+   "studio": "Paramount",
+   "grossUnadjusted": 36764313,
+   "grossAdjusted": 447653700,
+   "year": 1954
+ },
+ {
+   "film": "The Caine Mutiny",
+   "studio": "Columbia",
+   "grossUnadjusted": 21750000,
+   "grossAdjusted": 394607100,
+   "year": 1954
+ },
+ {
+   "film": "The Robe",
+   "studio": "Fox",
+   "grossUnadjusted": 36000000,
+   "grossAdjusted": 581890900,
+   "year": 1953
+ },
+ {
+   "film": "House of Wax",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 23750000,
+   "grossAdjusted": 449228700,
+   "year": 1953
+ },
+ {
+   "film": "Peter Pan",
+   "studio": "Disney",
+   "grossUnadjusted": 87404651,
+   "grossAdjusted": 405593100,
+   "year": 1953
+ },
+ {
+   "film": "The Greatest Showman on Earth",
+   "studio": "Paramount",
+   "grossUnadjusted": 36000000,
+   "grossAdjusted": 533400000,
+   "year": 1952
+ },
+ {
+   "film": "Cinderella (1950)",
+   "studio": "Disney",
+   "grossUnadjusted": 93141149,
+   "grossAdjusted": 536079700,
+   "year": 1950
+ },
+ {
+   "film": "The Best Years of Our Lives",
+   "studio": "RKO Radio Pictures",
+   "grossUnadjusted": 23650000,
+   "grossAdjusted": 488950000,
+   "year": 1946
+ },
+ {
+   "film": "Duel in the Sun",
+   "studio": "Selz.",
+   "grossUnadjusted": 20408163,
+   "grossAdjusted": 453571400,
+   "year": 1946
+ },
+ {
+   "film": "The Bells of St. Mary's",
+   "studio": "RKO Radio Pictures",
+   "grossUnadjusted": 21333333,
+   "grossAdjusted": 557803900,
+   "year": 1945
+ },
+ {
+   "film": "Bambi",
+   "studio": "RKO Radio Pictures",
+   "grossUnadjusted": 102247150,
+   "grossAdjusted": 566403700,
+   "year": 1942
+ },
+ {
+   "film": "Fantasia",
+   "studio": "Disney",
+   "grossUnadjusted": 76408097,
+   "grossAdjusted": 738256500,
+   "year": 1941
+ },
+ {
+   "film": "Sergeant York",
+   "studio": "Warner Bros.",
+   "grossUnadjusted": 16361885,
+   "grossAdjusted": 427815200,
+   "year": 1941
+ },
+ {
+   "film": "Pinocchio",
+   "studio": "Disney",
+   "grossUnadjusted": 84254167,
+   "grossAdjusted": 599215600,
+   "year": 1940
+ },
+ {
+   "film": "Gone with the Wind",
+   "studio": "MGM",
+   "grossUnadjusted": 198676459,
+   "grossAdjusted": 1796176700,
+   "year": 1939
+ },
+ {
+   "film": "Snow White and the Seven Dwarfs",
+   "studio": "Disney",
+   "grossUnadjusted": 184925486,
+   "grossAdjusted": 969010000,
+   "year": 1937
+ },
+ {
+   "film": "The Four Horsemen of the Apocalypse",
+   "studio": "MPC",
+   "grossUnadjusted": 9183673,
+   "grossAdjusted": 408214300,
+   "year": 1921
+ }
+]
