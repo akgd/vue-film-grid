@@ -42,23 +42,26 @@
         </table>
     </script>
     <div id="app">
-        <section class="hero is-large is-bold">
-            <div class="hero-body">
-                <h1 class="title">
+        <div class="gradient">
+            <div class="gradient-2"></div>
+            <section class="hero is-large is-bold">
+                <div class="hero-body">
+                    <h1 class="title">
         Top 200 grossing films
       </h1>
-                <div class="search">
-                    <div id="search">
-                        <input class="input" name="query" v-model="searchQuery" placeholder="Search films">
+                    <div class="search">
+                        <div id="search">
+                            <input class="input" name="query" v-model="searchQuery" placeholder="Search films">
+                        </div>
                     </div>
-                </div>
-        </section>
-        <div class="columns">
-            <div class="column is-offset-one">
-                <app-grid :data="gridData" :columns="gridColumns" :labels="gridLabels" :filter-key="searchQuery">
-                </app-grid>
+            </section>
             </div>
-        </div>
+            <div class="columns content-wrap">
+                <div class="column is-offset-one">
+                    <app-grid :data="gridData" :columns="gridColumns" :labels="gridLabels" :filter-key="searchQuery">
+                    </app-grid>
+                </div>
+            </div>
         </div>
         <footer class="footer">
             <div class="container">
