@@ -72,7 +72,7 @@ var app = new Vue({
 			var self = this;
 			xhr.open(
 				"GET",
-				"https://s3-us-west-2.amazonaws.com/s.cdpn.io/47703/moviesByGross.json"
+				"data/moviesByGross.json"
 			);
 			xhr.onload = function() {
 				self.gridData = JSON.parse(xhr.responseText);
