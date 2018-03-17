@@ -8,6 +8,4 @@
 * [Vue](http://vuejs.org) - JavaScript framework
 * [Bulma](http://bulma.io) - CSS framework based on Flexbox
 
-## Authors
 
-* **Andrea Goodson** - *Initial work* - [AKGD](https://github.com/AKGD)
