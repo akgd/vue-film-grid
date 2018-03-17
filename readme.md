@@ -1,6 +1,6 @@
 # Films by gross using Vue grid
 
-[View demo here.](https://akgd.github.io/vueFilmGrid/) - The purpose of this project was to get more familiar with Vue.
+[Check it out here.](https://akgd.io/vueFilmGrid/) The purpose of this project was to get more familiar with Vue.
 
 
 ## Built With
